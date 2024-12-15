@@ -15,7 +15,7 @@ Proyek bertujuan untuk mensimulasikan skenario komunikasi terenkripsi yang aman 
 | Nama                    | NRP         | Tugas                            |
 |-------------------------|-------------|----------------------------------|
 | Nadya Zuhria Amana      | 5025211058  | Implementasi server (`server.py`) |
-| Dilla Wahdana           | 502521060   | Implementasi client (`client.py`) |
+| Dilla Wahdana           | 5025211060   | Implementasi client (`client.py`) |
 
 ---
 
